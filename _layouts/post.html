@@ -1,0 +1,30 @@
+---
+layout: post-default
+---
+<div class="post">
+  <h1 class="postTitle">&nbsp;</h1>
+  <h1 class="postTitle">&nbsp;</h1>
+  <h1 class="postTitle">{{ page.title }}</h1>
+  <img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+  <!-- POST NAVIGATION -->
+  <div class="postNav clearfix">
+    {% if page.previous.url %} 
+    <div style="width: 120px; height: 120px; background: url(/img/portfolio/small-{{ page.previous.img }}) no-repeat; line-height: 120px; text-align: center; float: left; cursor: pointer;" onclick="window.location='{{ page.previous.url | prepend: site.baseurl }}';">
+      <b style="color: #000000; background-color: #ffffff">{{ page.previous.alt }}</b>
+    </div>
+    {% endif %}  
+    {% if page.next.url %}  
+    <div style="width: 120px; height: 120px; background: url(/img/portfolio/small-{{ page.next.img }}) no-repeat; line-height: 120px; text-align: center; float: right; cursor: pointer;" onclick="window.location='{{ page.next.url | prepend: site.baseurl }}';">
+      <b style="color: #000000; background-color: #ffffff">{{ page.next.alt }}</b>
+    </div>
+    {% endif %} 
+  </div>
+  
+  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+  
+  {{ content }}
+  
+  <h1 class="postTitle">&nbsp;</h1>
+
+  <h1 class="postTitle">&nbsp;</h1>
+</div>

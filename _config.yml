@@ -1,0 +1,58 @@
+# Site settings
+title: Xiangfu Joey Zhong
+email: xiaoyuanguo.ucas@gmail.com
+url: https://xiaoyuanguo.github.io
+description: "The research and coding homepage for Joey Zhong."
+skills: "bioinformatics, NGS data, python, R, Java"
+meta_author: Joey Zhong
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+gems: [jekyll-paginate]
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 565656
+  primary-rgb: "86,86,86"
+  secondary: 303030
+  secondary-dark: E87600  
+
+# Footer settings
+footer:
+  copyright: Joey Zhong
+  location: Oslo, Norway
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: Researchgate
+    url: https://www.researchgate.net/profile/Xiangfu_Zhong
+  - title: github
+    url: http://joey0214.github.io/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: University of Oslo
+  - line: Oslo, Norway
+
+# Credits content
+credits: 'Joey Zhong is a PhD student of Universityof Oslo and Oslo University Hospital.'
+
+# Build settings
+markdown: kramdown
+#permalink: pretty
