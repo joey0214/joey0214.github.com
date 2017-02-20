@@ -10,13 +10,13 @@ description: Curriculum vitae
 ---
 
 ### Publications
-[4] Landry CR, Zhong X, Nielly-Thibault L, Roucou X. Found in translation: functions and evolution of a recently discovered alternative proteome. Curr Opin Struct Biol. 2015
+[4] Landry CR, **Zhong X**, Nielly-Thibault L, Roucou X. Found in translation: functions and evolution of a recently discovered alternative proteome. Curr Opin Struct Biol. 2015
 
-[3] Han N, Adams J, Chen P, Guo ZY, Zhong XF, Fang W, Li N, Wen L, Tao XY, Yuan ZM, Rayner S. Comparison of genotypes I and III in Japanese encephalitis virus reveals distinct differences in their genetic and host diversity. J Virol. 2014
+[3] Han N, Adams J, Chen P, Guo ZY, **Zhong XF**, Fang W, Li N, Wen L, Tao XY, Yuan ZM, Rayner S. Comparison of genotypes I and III in Japanese encephalitis virus reveals distinct differences in their genetic and host diversity. J Virol. 2014
 
-[2] Yu F, Zhang G, Zhong X, Han N, Song Y, Zhao L, Cui M, Rayner S, Fu ZF. Comparison of complete genome sequences of dog rabies viruses isolated from China and Mexico reveals key amino acid changes that may be associated with virus replication and virulence. Arch Virol. 2014
+[2] Yu F, Zhang G, **Zhong X**, Han N, Song Y, Zhao L, Cui M, Rayner S, Fu ZF. Comparison of complete genome sequences of dog rabies viruses isolated from China and Mexico reveals key amino acid changes that may be associated with virus replication and virulence. Arch Virol. 2014
 
-[1] LiL,HanN,LuJ,LiT,ZhongX,WuH,RaynerS, Chen L, Liu Y, Wang X, Li H, Li J. Genetic characteri- zation and transmitted drug resistance of the HIV type 1 epidemic in men who have sex with men in Beijing, China. AIDS Res Hum Retroviruses. 2013
+[1] Li L, Han N, Lu J, Li T, **Zhong X**, Wu H,Rayner S, Chen L, Liu Y, Wang X, Li H, Li J. Genetic characteri- zation and transmitted drug resistance of the HIV type 1 epidemic in men who have sex with men in Beijing, China. AIDS Res Hum Retroviruses. 2013
 
 
 ### Education:
