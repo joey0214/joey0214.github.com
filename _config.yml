@@ -27,9 +27,9 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: #565656
+  primary: 565656
   primary-rgb: "86,86,86"
-  secondary: #303030
+  secondary: 303030
   secondary-dark: E87600  
 
 # Footer settings
