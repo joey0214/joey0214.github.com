@@ -1,5 +1,5 @@
 # Site settings
-title: Joey Zhong
+title: Xiangfu (Joey) Zhong
 email: joey.zhong.cn@gmail.com
 url: https://joey0214.github.io
 description: "The research and coding homepage for Joey Zhong."
@@ -34,7 +34,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Joey Zhong
+  copyright: Xiangfu (Joey) Zhong
   location: Oslo, Norway
   credits: Credits
 
@@ -51,7 +51,7 @@ address:
   - line: Oslo, Norway
 
 # Credits content
-credits: 'Joey Zhong is a PhD student of Universityof Oslo and Oslo University Hospital.'
+credits: 'Xiangfu (Joey) Zhong is a PhD student of Universityof Oslo and Oslo University Hospital.'
 
 # Build settings
 markdown: kramdown
